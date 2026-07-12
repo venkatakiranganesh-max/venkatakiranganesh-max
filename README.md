@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Kiran Ganesh
 
-<!--
-**venkatakiranganesh-max/venkatakiranganesh-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Integration Engineering Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building AI-powered and web-based applications. I enjoy learning new technologies and creating real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Django
+- JavaScript
+- Node.js
+- HTML & CSS
+- Git & GitHub
+
+## Projects
+- 🚀 Real-Time Communication App
+- 🛒 Simple Ecommerce Store
+
+## Currently Learning
+- AI Integration
+- Full Stack Development
+- Machine Learning
+
+📫 Connect with me on LinkedIn
