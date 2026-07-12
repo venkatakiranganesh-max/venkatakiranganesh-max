@@ -37,3 +37,19 @@ I am passionate about building AI-powered and web-based applications. I enjoy so
 ![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatakiranganesh-max&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatakiranganesh-max&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=venkatakiranganesh-max&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=venkatakiranganesh-max&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+## 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=venkatakiranganesh-max&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+## 📈 GitHub Activity Graph
+
+[![Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakiranganesh-max&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
