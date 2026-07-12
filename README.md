@@ -2,9 +2,9 @@
 
 ## AI Integration Engineering Enthusiast
 
-I am passionate about building AI-powered and web-based applications. I enjoy learning new technologies and creating real-world projects.
+I am passionate about building AI-powered and web-based applications. I enjoy solving real-world problems through technology and continuously learning new tools and techniques.
 
-## Skills
+## 💻 Skills
 - Python
 - Django
 - JavaScript
@@ -12,13 +12,14 @@ I am passionate about building AI-powered and web-based applications. I enjoy le
 - HTML & CSS
 - Git & GitHub
 
-## Projects
-- 🚀 Real-Time Communication App
-- 🛒 Simple Ecommerce Store
+## 🚀 Projects
+- Real-Time Communication App
+- Simple Ecommerce Store
 
-## Currently Learning
+## 📚 Currently Learning
 - AI Integration
-- Full Stack Development
+- Full-Stack Development
 - Machine Learning
 
-📫 Connect with me on LinkedIn
+## 📫 Connect With Me
+- LinkedIn: *(https://www.linkedin.com/in/venkata-kiran-ganesh-kadali-59b150358?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
