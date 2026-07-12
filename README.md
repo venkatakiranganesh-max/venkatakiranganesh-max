@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Integration+Engineering+Enthusiast;Python+%7C+Django+%7C+JavaScript+%7C+Node.js;Open+to+Internships;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Integration+Engineering+Enthusiast;Python+Developer;Django+%7C+Node.js+%7C+JavaScript;Open+to+Internships;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-<p align="center">
   <img src="banner.jpeg" width="100%">
 </p>
 # Hi 👋 I'm Kiran Ganesh
